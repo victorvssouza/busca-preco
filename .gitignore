@@ -1,0 +1,18 @@
+# 📄 Arquivos temporários de diagnóstico do projeto
+pagina.html
+
+# 🐍 Arquivos automáticos e caches do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# 💻 Configurações locais do VS Code e do Windows
+.vscode/
+Thumbs.db
+ehthumbs.db
+Desktop.ini
